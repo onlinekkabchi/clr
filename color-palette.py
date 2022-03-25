@@ -15,6 +15,7 @@ colors, pixel_count = extcolors.extract_from_path("jin.jpg")
 
 rgb_list = [x[0] for x in colors]
 
+
 ## 추출한 색깔?? 을 콘솔에 찍어주는거...
 print(rgb_list)
 
